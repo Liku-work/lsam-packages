@@ -1,15 +1,14 @@
 {
   "packages": [
     {
-    "login-system": {
-    "id": "login-system",
-    "name": "Login System",
-    "description": "Sistema de autenticación con manejo de sesiones y tokens.",
-    "url": "https://github.com/likuframework/login-system/archive/refs/heads/main.zip",
-    "author": "TuNombre",
-    "version": "1.0.1",
-    "pack": "authentication",
-    "dependencies": []
+      "id": "login-system",
+      "name": "Login System",
+      "description": "Sistema de autenticación con manejo de sesiones y tokens.",
+      "url": "https://github.com/likuframework/login-system/archive/refs/heads/main.zip",
+      "author": "TuNombre",
+      "version": "1.0.1",
+      "pack": "authentication",
+      "dependencies": []
     }
   ]
 }
