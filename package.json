@@ -4,7 +4,7 @@
       "id": "login-system",
       "name": "Login System",
       "description": "Sistema de autenticación con manejo de sesiones y tokens.",
-      "url": "https://github.com/liku-work/login-system/archive/refs/heads/main.zip",
+      "url": "https://github.com/Liku-work/lsam-packages/archive/refs/heads/main.zip",
       "author": "Liku",
       "version": "1.0.1",
       "pack": "authentication",
