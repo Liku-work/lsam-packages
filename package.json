@@ -12,6 +12,7 @@
       "license": "MIT",
       "repo": "https://github.com/Liku-work/login-system",
       "download": "https://github.com/Liku-work/login-system/releases/download/v1.0.1/login-system.zip",
+      "url": "https://github.com/Liku-work/login-system/releases/download/v1.0.1/login-system.zip",
       "dependencies": []
     },
     {
@@ -24,6 +25,7 @@
       "license": "MIT",
       "repo": "https://github.com/Liku-work/json-db",
       "download": "https://github.com/Liku-work/json-db/releases/download/v0.9.0/json-db.zip",
+      "url": "https://github.com/Liku-work/json-db/releases/download/v0.9.0/json-db.zip",
       "dependencies": []
     }
   ]
