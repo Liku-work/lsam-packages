@@ -1,31 +1,33 @@
 {
-  "registry": "liku.art",
-  "updated": "2025-01-01",
   "packages": [
     {
       "id": "login-system",
       "name": "Login System",
       "description": "Sistema de autenticación con sesiones, tokens y protección básica.",
-      "type": "authentication",
-      "version": "1.0.1",
-      "author": "Liku",
-      "license": "MIT",
-      "repo": "https://github.com/Liku-work/login-system",
-      "download": "https://github.com/Liku-work/login-system/releases/download/v1.0.1/login-system.zip",
       "url": "https://github.com/Liku-work/login-system/releases/download/v1.0.1/login-system.zip",
+      "author": "Liku",
+      "version": "1.0.1",
+      "pack": "authentication",
       "dependencies": []
     },
     {
-      "id": "Laravel",
-      "name": "Laravel Frameworw",
-      "description": "Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.",
-      "type": "Framework",
-      "version": "12.44.0",
-      "author": "Laravel",
-      "license": "MIT",
-      "repo": "https://github.com/laravel/laravel",
-      "download": "https://github.com/laravel/laravel/archive/refs/heads/12.x.zip",
-      "url": "https://github.com/laravel/laravel/archive/refs/heads/12.x.zip",
+      "id": "router-lite",
+      "name": "Router Lite",
+      "description": "Router PHP ligero estilo Laravel.",
+      "url": "https://github.com/Liku-work/router-lite/releases/download/v1.0.0/router-lite.zip",
+      "author": "Liku",
+      "version": "1.0.0",
+      "pack": "core",
+      "dependencies": []
+    },
+    {
+      "id": "csrf-guard",
+      "name": "CSRF Guard",
+      "description": "Protección CSRF simple para formularios.",
+      "url": "https://github.com/Liku-work/csrf-guard/releases/download/v1.0.0/csrf-guard.zip",
+      "author": "Liku",
+      "version": "1.0.0",
+      "pack": "security",
       "dependencies": []
     }
   ]
