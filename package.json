@@ -27,6 +27,19 @@
       "download": "https://github.com/laravel/laravel/archive/refs/heads/12.x.zip",
       "url": "https://github.com/laravel/laravel/archive/refs/heads/12.x.zip",
       "dependencies": []
+    },
+    {
+      "id": "login-red",
+      "name": "Login System",
+      "description": "Sistema de autenticación con sesiones, tokens y protección básica.",
+      "type": "authentication",
+      "version": "1.0.1",
+      "author": "Liku",
+      "license": "MIT",
+      "repo": "https://github.com/Liku-work/login-system",
+      "download": "https://github.com/Liku-work/login-system/releases/download/v1.0.1/login-system.zip",
+      "url": "https://github.com/Liku-work/login-system/releases/download/v1.0.1/login-system.zip",
+      "dependencies": []
     }
   ]
 }
