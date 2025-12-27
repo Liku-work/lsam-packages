@@ -16,16 +16,16 @@
       "dependencies": []
     },
     {
-      "id": "json-db",
-      "name": "JSON Database",
-      "description": "Base de datos ligera en JSON con soporte de cifrado.",
-      "type": "database",
-      "version": "0.9.0",
-      "author": "Liku",
+      "id": "Laravel",
+      "name": "Laravel Frameworw",
+      "description": "Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.",
+      "type": "Framework",
+      "version": "12.44.0",
+      "author": "Laravel",
       "license": "MIT",
-      "repo": "https://github.com/Liku-work/json-db",
-      "download": "https://github.com/Liku-work/json-db/releases/download/v0.9.0/json-db.zip",
-      "url": "https://github.com/Liku-work/json-db/releases/download/v0.9.0/json-db.zip",
+      "repo": "https://github.com/laravel/laravel",
+      "download": "https://github.com/laravel/laravel/archive/refs/heads/12.x.zip",
+      "url": "https://github.com/laravel/laravel/archive/refs/heads/12.x.zip",
       "dependencies": []
     }
   ]
