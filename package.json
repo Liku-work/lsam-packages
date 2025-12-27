@@ -16,8 +16,8 @@
       "dependencies": []
     },
     {
-      "id": "Laravel",
-      "name": "Laravel Frameworw",
+      "id": "laravel",
+      "name": "Laravel Framework",
       "description": "Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.",
       "type": "Framework",
       "version": "12.44.0",
